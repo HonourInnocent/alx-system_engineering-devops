@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-#!/usr/bin/env bash 
-=======
-#!usr/bin/env bash
->>>>>>> 3dbd3f51cb17a23c6d1a41c37eb50dc306c38dd9
+#!/usr/bin/env bash
 # Displays the contents of the current directory in list format.
 #   Only displays the part of the name after the first dash. 
 
